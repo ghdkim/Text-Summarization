@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: TextSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/ghdkim/Text-Summarization
+Author: ghdkim
+Author-email: ghdkimuni@gmail.com
+Project-URL: Bug Tracker, https://github.com/ghdkim/Text-Summarization/issues
+
+# xccelerate_p9
+Text Summarization
